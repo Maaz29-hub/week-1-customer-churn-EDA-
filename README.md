@@ -1,4 +1,18 @@
 ## Week 2: Building ML Models
+I have completed *Week 2* of my Machine Learning project on *Telco Customer Churn Prediction*.
+
+In this week's work, I focused on:
+
+* Data preprocessing and feature engineering
+* Logistic Regression
+* Decision Tree
+* Random Forest
+* Confusion Matrix and ROC-AUC
+* Threshold analysis
+* Class imbalance handling
+* Feature importance
+* Additional feature engineering
+
 Baseline (always "stay"): accuracy 
  Logistic Regression: recall --> 0.567, AUC --> 0.8422
 Random Forest: recall --> 0.568, AUC  --> 0.8420
